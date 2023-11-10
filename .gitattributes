@@ -1,0 +1,4 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+.zip filter=lfs diff=lfs merge=lfs -text
+UFO[[:space:]]jump filter=lfs diff=lfs merge=lfs -text
+UFO[[:space:]]jump.zip filter=lfs diff=lfs merge=lfs -text
